@@ -1,4 +1,4 @@
-const secretPhrases = ["hangman", "shirin", "white", "hi", "nilaa", "hana", "hosna", "elena", "hediye"];
+const secretPhrases = ["hangman", "shirin", "white", "hi", "mahdi", "taxi", "school", "developer", "lenovo", "boy", "girl", "family", "iran", "chatgpt"];
 let randomItem = "";
 let clicked = [];
 let result = "";
